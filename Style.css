@@ -14,8 +14,8 @@
 }
 #clock{
     
-     width: 80rem; 
-     height: 40rem;
+     width: 40rem; 
+     height: 20rem;
      display: flex;
      justify-content: center;
      align-items: center;
@@ -24,7 +24,7 @@
    
 }
 #day{
-    font-size: 5rem;
+    font-size: 3rem;
     text-wrap: nowrap;
     position: absolute;
     top: 5px;
@@ -33,7 +33,7 @@
 }
 #time{
     text-shadow: -7px 10px 10px  rgb(33, 33, 33);
-    font-size: 23rem;
+    font-size: 10rem;
 }
 
 #indigater{
